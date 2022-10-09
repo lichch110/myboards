@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Peralta;
+  src: url(../fonts/Peralta.ttf);
+}
+
+
+.navbar-brand {
+  font-family: Peralta, cursive;
+}
